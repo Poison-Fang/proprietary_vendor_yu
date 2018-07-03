@@ -48,7 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/bin/imscmservice:system/vendor/bin/imscmservice \
     vendor/yu/tomato/proprietary/vendor/bin/imsdatadaemon:system/vendor/bin/imsdatadaemon \
     vendor/yu/tomato/proprietary/vendor/bin/imsqmidaemon:system/vendor/bin/imsqmidaemon \
-    vendor/yu/tomato/proprietary/vendor/bin/ims_rtp_daemon:system/vendor/bin/ims_rtp_daemon \
     vendor/yu/tomato/proprietary/vendor/etc/permissions/imscm.xml:system/vendor/etc/permissions/imscm.xml \
     vendor/yu/tomato/proprietary/vendor/etc/permissions/qti_permissions.xml:system/vendor/etc/permissions/qti_permissions.xml \
     vendor/yu/tomato/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
