@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/yu/tomato/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/yu/tomato/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
-    vendor/yu/tomato/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
     vendor/yu/tomato/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/yu/tomato/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/yu/tomato/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
